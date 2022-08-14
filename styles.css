@@ -1,0 +1,9 @@
+.holder{
+    margin: auto;
+    border: 2px solid black;
+    font-size: 0px; /*this is to remove the vertical spaces between the inline-block elements*/
+}
+
+.cell{
+    display: inline-block;
+}
